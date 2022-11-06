@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/technology.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Rakesh Technologies, 
+		Rakesh Technologies Institute, 
 		Hyderabad, Above ICICI Bank, Beside Meghana Foods,
 		Telangana,
 		+91-8978939293
