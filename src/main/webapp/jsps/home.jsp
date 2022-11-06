@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Rakesh Technologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="" rel="icon">
 </head>
 </head>
 <body>
@@ -48,7 +48,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Rakesh Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Rakesh Technologies,Telangana</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://Rakeshtechnologies.com/">Rakesh Technologies,Telangana</a> </small></p>
 
 </body>
 </html>
