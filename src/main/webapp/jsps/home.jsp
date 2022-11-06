@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Rakesh Technologies- Home Page</title>
-<link href="" rel="icon">
+<link href="images/technology.png" rel="icon">
 </head>
 </head>
 <body>
